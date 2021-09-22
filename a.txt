@@ -3,3 +3,4 @@ Teste
 Entendendo o HEAD
 
 Este arquivo está sendo modificado no ramo master
+Esta linha foi modificada no ramo Teste
